@@ -11,5 +11,7 @@ namespace C__practice
         public int salary { get; set; }
 
         public int rollnumber { get; set; } 
+
+        public int fees { get; set; } 
     }
 }
