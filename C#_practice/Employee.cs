@@ -9,5 +9,7 @@ namespace C__practice
         public int Id { get; set; }
         public string Name { get; set; }
         public int salary { get; set; }
+
+        public int rollnumber { get; set; } 
     }
 }
